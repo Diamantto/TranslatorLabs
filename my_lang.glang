@@ -1,0 +1,13 @@
+program counter
+    var
+        n:integer;
+        y:real;
+        x:real;
+
+begin
+    x = 1.23e+3;
+    y = 0.0;
+    n = 10 + 5 ^ 2;
+    write(n);
+	write(y);
+end.

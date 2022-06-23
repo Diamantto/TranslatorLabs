@@ -1,0 +1,7 @@
+program test
+    var
+        n: real;
+begin
+    n != -1.23e10;
+    write(n);
+end.

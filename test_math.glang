@@ -1,0 +1,12 @@
+program math
+    var
+        a: real;
+        b: boolean;
+        x: integer;
+begin
+    a = 2.0 / 2;
+    write(a);
+    b = false;
+    x = (2 ^ 2 ^ 2 + 1) ^ 2;
+    write(x);
+end.

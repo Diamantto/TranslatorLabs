@@ -1,0 +1,6 @@
+program counter
+    var
+        x:real;
+begin
+    x = 1.23e+10;
+end.

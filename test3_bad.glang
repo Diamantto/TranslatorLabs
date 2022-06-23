@@ -1,0 +1,6 @@
+program1 test
+    war
+        n: real;
+begun
+    7n = 7.0
+end.

@@ -1,0 +1,9 @@
+program counter
+    if x + 5  ?
+	    begin
+	        y = 2.0;
+	    end :
+	    begin
+	        y = 10.0;
+	    end
+end.
